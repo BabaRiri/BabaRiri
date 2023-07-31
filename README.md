@@ -60,8 +60,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=babariri&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=babariri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 ###

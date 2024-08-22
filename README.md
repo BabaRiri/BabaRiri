@@ -39,6 +39,10 @@ div>
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
